@@ -3,7 +3,7 @@
 
     "type": "yii2-extension",
 
-    "description": "The Async mailer for the Yii framework",
+    "description": "The Async mailer for the Yii framework 2.0,which is optimised from doctorjason version.",
     "keywords": ["yii2", "redis", "async", "mailer"],
     "license": "MIT",
     "support": {
